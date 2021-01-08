@@ -2,3 +2,5 @@
 
 # cookieschleuder
 A simple Chrome/Chromium Extension that will catapult (http-put) the value of one single cookie to http://127.0.0.1:[port]/[cookie]
+
+![Alt text](images/settings.png?raw=true "Settings")
