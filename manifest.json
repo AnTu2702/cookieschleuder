@@ -2,7 +2,7 @@
   "name": "Cookieschleuder",
   "version": "1.0",
   "description": "Cookieschleuder will http-put the value of one single cookie at a selected tcp port to http://127.0.0.1:<port>/<cookie>",
-  "permissions": ["storage", "cookies", "https://*/", "http://127.0.0.1:*/*"],
+  "permissions": ["storage", "cookies", "https://*/", "http://127.0.0.1/*"],
   "options_ui": {
     "page": "options.html",
     "open_in_tab": false
