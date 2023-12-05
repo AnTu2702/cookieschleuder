@@ -1,0 +1,11 @@
+{
+  "name": "cookieschleuder",
+  "version": "1.1.0",
+  "description": "Update Manifest to V3",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Tully",
+  "license": "ISC"
+}
